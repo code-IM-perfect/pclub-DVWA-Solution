@@ -1,0 +1,15 @@
+-rw-r--r-- 1 kaptaan kaptaan 1014 May 14 12:27 Challenge.md
+drwxrwxr-x 2 kaptaan kaptaan 4096 May 17 16:07 __pycache__
+-rwxr-xr-x 1 kaptaan kaptaan 4518 May 17 16:06 app.py
+-rw-r--r-- 1 kaptaan kaptaan 2756 May 14 06:46 blogs.json
+-rwxr-xr-x 1 kaptaan kaptaan 3195 May 14 11:14 create_data.py
+-rw-r--r-- 1 kaptaan kaptaan 46 May 14 15:40 db_user.json
+-rw-rw-r-- 1 kaptaan kaptaan 1563 May 18 11:08 dir
+-rw-rw-r-- 1 kaptaan kaptaan 0 May 18 14:55 h
+-rw-rw-r-- 1 kaptaan kaptaan 8 May 18 10:00 id
+-rwxr-xr-x 1 kaptaan kaptaan 940 May 14 15:41 ip_details.py
+-rw-r--r-- 1 kaptaan kaptaan 251 May 14 16:53 routes.txt
+drwxr-xr-x 6 kaptaan kaptaan 4096 May 14 09:22 static
+drwxr-xr-x 2 kaptaan kaptaan 4096 May 14 17:25 templates
+-rw-r--r-- 1 kaptaan kaptaan 654 May 14 06:50 users.json
+-rwxrwxr-x 1 kaptaan kaptaan 84 May 14 15:49 wsgi.py
